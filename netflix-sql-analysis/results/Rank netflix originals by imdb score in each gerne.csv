@@ -1,0 +1,585 @@
+Title,IMDBScore,GenreID,rank_no
+"David Attenborough: A Life on Our Planet",9,G1,1
+"Emicida: AmarElo - It's All For Yesterday",8.6,G1,2
+"Winter on Fire: Ukraine's Fight for Freedom",8.4,G1,3
+"Dancing with the Birds",8.3,G1,4
+"Cuba and the Cameraman",8.3,G1,4
+13th,8.2,G1,6
+Seaspiracy,8.2,G1,6
+"The Three Deaths of Marisela Escobedo",8.2,G1,6
+"Disclosure: Trans Lives on Screen",8.2,G1,6
+"Rising Phoenix",8.1,G1,10
+"My Octopus Teacher",8.1,G1,10
+"Chasing Coral",8.1,G1,10
+"Struggle: The Life and Lost Art of Szukaiski",8,G1,13
+Icarus,7.9,G1,14
+"A Secret Love",7.9,G1,14
+"The Ivory Game",7.9,G1,14
+"Crip Camp: A Disability Revolution",7.7,G1,17
+"Jim & Andy: The Great Beyond - Featuring a Very Special, Contractually Obligated Mention of Tony Cliffton ",7.7,G1,17
+"Brene Brown: The Call to Courage",7.7,G1,17
+Quincy,7.6,G1,20
+"Tell Me Who I Am",7.6,G1,20
+"Rolling Thunder Revue: A bob Dylan Story by Martin Scorsere",7.6,G1,20
+"The Social Dilemma",7.6,G1,20
+"What Happened, Miss Simone?",7.6,G1,20
+"The Bleeding Edge",7.6,G1,20
+"Athlete A",7.6,G1,20
+"The White Helmets",7.5,G1,27
+"Reversing Roe",7.5,G1,27
+"Blackpink: Light Up the Sky",7.5,G1,27
+"Joan Didion: The Center Will Not Hold",7.5,G1,27
+"Homecoming: A Film by Beyonce",7.5,G1,27
+"Dick Johnson Is Dead",7.5,G1,27
+"City of Joy",7.5,G1,27
+"The Speed Cubers",7.4,G1,34
+"The Black Godfather",7.4,G1,34
+Shirkers,7.4,G1,34
+"Period. End of Sentence.",7.4,G1,34
+"Miss Americana",7.4,G1,34
+"Long Shot",7.4,G1,34
+"Fire in Paradise",7.4,G1,34
+"American Factory",7.4,G1,34
+Tig,7.4,G1,34
+"They'll Love Me When I'm Dead",7.4,G1,34
+"Father Soldier Son",7.3,G1,44
+"Get Me Roger Stone",7.3,G1,44
+"The Death and Life of Marsha P. Johnson",7.3,G1,44
+"Team Foxcatcher",7.3,G1,44
+"Sky Ladder: The Art of Cai Guo-Qiang",7.3,G1,44
+"The Other One: The Long Strange Trip of Bob Weir",7.3,G1,44
+"Mucho Mucho Amor: The Legend of Walter Mercado",7.3,G1,44
+"ReMastered: Massacre at the Stadium",7.3,G1,44
+"Secrets of the Saqqara Tomb",7.3,G1,44
+"ReMastered: The Two Killings of Sam Cooke",7.3,G1,44
+Extremis,7.3,G1,44
+Zion,7.2,G1,55
+"The Edge of Democracy",7.2,G1,55
+"Into the Inferno",7.2,G1,55
+"American Murder: The Family Next Door",7.2,G1,55
+"Audrie & Daisy",7.2,G1,55
+"Fyre: The Greatest Party That Never Happened",7.2,G1,55
+"Ladies First",7.2,G1,55
+"LA Originals",7.2,G1,55
+"Joshua: Teenager vs. Superpower",7.1,G1,63
+"Circus of Books",7.1,G1,63
+"Keith Richards: Under the Influence",7.1,G1,63
+"ReMastered: Tricky Dick & the Man in Black",7.1,G1,63
+"El Pepe: A Supreme Life",7.1,G1,63
+"My Beautiful Broken Brain",7.1,G1,63
+"Dance Dreams: Hot Chocolate Nutcracker",7.1,G1,63
+"One of Us",7.1,G1,63
+"Ram Dass, Going Home",7.1,G1,63
+"Rooting for Roona",7.1,G1,63
+"End Game",7.1,G1,63
+"Guillermo Vilas: Settling the Score",7.1,G1,63
+"The Great Hack",7.1,G1,63
+Evelyn,7.1,G1,63
+"Grass Is Greener",7.1,G1,63
+"Knock Down the House",7.1,G1,63
+"Los Tigres del Norte at Folsom Prison",7,G1,79
+"ReMastered: Devil at the Crossroads",7,G1,79
+Pele,7,G1,79
+"Feminists: What Were They Thinking?",7,G1,79
+"Operation Varsity Blues: The College Admissions Scandal",7,G1,79
+"ReMastered: The Miami Showband Massacre",7,G1,79
+"Lorena, Light-Footed Woman",7,G1,79
+"Kingdom of Us",7,G1,79
+Resurface,7,G1,79
+"Gaga: Five Foot Two",7,G1,79
+"ReMastered: The Lion's Share",7,G1,79
+"Bigflo & Oli: Hip Hop Frenzy",6.9,G1,90
+"Seeing Allred",6.9,G1,90
+"Amanda Knox",6.9,G1,90
+Laerte-se,6.9,G1,90
+"Biggie: I Got a Story to Tell",6.9,G1,90
+"ReMastered: Who Shot the Sheriff?",6.9,G1,90
+"Spelling the Dream",6.9,G1,90
+"The Claudia Kishi Club",6.9,G1,90
+"All in My Family",6.8,G1,98
+"Saving Capitalism",6.8,G1,98
+"The Trader",6.8,G1,98
+Becoming,6.8,G1,98
+"Tony Parker: The Final Shot",6.8,G1,98
+"A Love Song for Latasha",6.8,G1,98
+"GIMS: On the Record",6.8,G1,98
+"Have a Good Trip: Adventures in Psychedelics",6.8,G1,98
+Heroin(e),6.8,G1,98
+"A Life of Speed: The Juan Manuel Fangio Story",6.8,G1,98
+"Mercury 13",6.8,G1,98
+CounterPunch,6.7,G1,109
+"Hope Frozen: A Quest to Live Twice",6.7,G1,109
+"Bikram: Yogi, Guru, Predator",6.7,G1,109
+"Little Miss Sumo",6.7,G1,109
+"Parchis: The Documentary",6.7,G1,109
+"Tony Robbins: I Am Not Your Guru",6.7,G1,109
+"Giving Voice",6.7,G1,109
+"Crack: Cocaine, Corruption & Conspiracy",6.7,G1,109
+"The American Meme",6.6,G1,117
+"ReMastered: Who Killed Jam Master Jay?",6.6,G1,117
+"What Would Sophia Loren Do?",6.6,G1,117
+"Shawn Mendes: In Wonder",6.6,G1,117
+"Recovery Boys",6.6,G1,117
+"I'll Sleep When I'm Dead",6.6,G1,117
+"It Takes a Lunatic",6.6,G1,117
+"Life Overtakes Me",6.5,G1,124
+"Chadwick Boseman: Portrait of an Artist",6.5,G1,124
+"Dolly Parton: A MusiCares Tribute",6.5,G1,124
+"Nobody Speak: Trials of the Free Press",6.5,G1,124
+"A 3 Minute Hug",6.5,G1,124
+"Antoine Griezmann: The Making of a Legend",6.5,G1,124
+Birders,6.4,G1,130
+"The Mars Generation",6.4,G1,130
+"My Own Man",6.4,G1,130
+"Two Catalonias",6.4,G1,130
+"Strong Island",6.4,G1,130
+"Take Your Pills",6.4,G1,130
+"Anelka: Misunderstood",6.4,G1,130
+"Murder to Mercy: The Cyntoia Brown Story",6.4,G1,130
+"John Was Trying to Contact Aliens",6.4,G1,130
+"Travis Scott: Look Mom I Can Fly",6.3,G1,139
+"Nail Bomber: Manhunt",6.3,G1,139
+"The Legend of Cocaine Island",6.3,G1,139
+"A Tale of Two Kitchens",6.3,G1,139
+Voyuer,6.2,G1,143
+"The Rachel Divide",6.2,G1,143
+"Casting JonBenet",6.1,G1,145
+"Hot Girls Wanted",6.1,G1,145
+"Notes from Dunblane: Lesson from a School Shooting",5.9,G1,147
+"The Minimalists: Less Is Now",5.9,G1,147
+"Out of Many, One",5.7,G1,149
+"One Take",5.7,G1,149
+"Why Did You Kill Me?",5.6,G1,151
+"Ghosts of Sugar Land",5.5,G1,152
+"Strip Down, Rise Up",5.2,G1,153
+"We Are One",4.6,G1,154
+"After Maria",4.6,G1,154
+"Hello Privilege. It's Me, Chelsea",4.4,G1,156
+"After the Raid",4.3,G1,157
+"Searching for Sheela",4.1,G1,158
+"Enter the Anime",2.5,G1,159
+"The Half of It",6.9,G10,1
+"Our Souls at Night",6.9,G10,1
+"Malcolm & Marie",6.7,G10,3
+"Elisa & Marcela",6.6,G10,4
+"All the Bright Places",6.5,G10,5
+Tramps,6.5,G10,5
+"Layla Majnun",6.4,G10,7
+"Holiday in the Wild",6.1,G10,8
+Rebecca,6,G10,9
+"Christmas Inheritance",5.7,G10,10
+"Caught by a Wave",5.7,G10,10
+"One-Way to Tomorrow",5.6,G10,12
+"Geez & Ann",5.1,G10,13
+"Paris Is Us",4.6,G10,14
+Klaus,8.2,G11,1
+"If Anything Happens I Love You",7.8,G11,2
+"Road to Roma",7.7,G11,3
+"Invader Zim: Enter the Florpus",7.5,G11,4
+"Sitara: Let Girls Dream",7.3,G11,5
+"Octonauts & the Great Barrier Reef",7.3,G11,5
+"The Road to El Camino: A Breaking Bad Movie",7.2,G11,7
+"Angela's Christmas",7.1,G11,8
+"Angela's Christmas Wish",7.1,G11,8
+"Rocko's Modern Life: Static Cling",7,G11,10
+"Cops and Robbers",6.9,G11,11
+"Arlo the Alligator Boy",6.7,G11,12
+"A Whisker Away",6.7,G11,12
+Blame!,6.7,G11,12
+Canvas,6.5,G11,15
+"Altered Carbon: Resleeved",6.5,G11,15
+"Sturgill Simpson Presents: Sound & Fury",6.4,G11,17
+"Over the Moon",6.4,G11,17
+"The Willoughbys",6.4,G11,17
+"Octonauts & the Caves of Sac Actun",6.2,G11,20
+"The Claus Family",5.8,G11,21
+"The Larva Island Movie",5.1,G11,22
+Fearless,4.9,G11,23
+"Sol Levante",4.7,G11,24
+"Freaks: You're One of Us",5.4,G12,1
+"Springsteen on Broadway",8.5,G13,1
+"The Irishman: In Conversation",7.4,G13,2
+"13th: A Conversation with Oprah Winfrey & Ava DuVernay",7.1,G13,3
+"Loudon Wainwright III: Surviving Twin",7.1,G13,3
+"Ma Rainey's Black Bottom: A Legacy Brought to Screen",7,G13,5
+"I'm No Longer Here: A Discussion with Guillermo del Toro and Alfonso Cuaron",7,G13,5
+"The Boys in the Band: Something Personal",6.8,G13,7
+"Rodney King",5.8,G13,8
+"American Factory: A Conversation with the Obamas",5.2,G13,9
+"The King",7.2,G14,1
+"Outlaw King",6.9,G14,2
+"Dolemite Is My Name",7.3,G15,1
+"The Dirt",7,G15,2
+Mank,6.9,G15,3
+"A Futile and Stupid Gesture",6.8,G15,4
+"Baggio: The Divine Ponytail",6.2,G15,5
+"Roxanne Roxanne",6.2,G15,5
+Sergio,6.1,G15,7
+"The Most Hated Woman in America",6.1,G15,7
+"Come Sunday",6,G15,9
+Barry,5.8,G15,10
+"Taylor Swift: Reputation Stadium Tour",8.4,G16,1
+"Ben Platt: Live from Radio City Music Hall",8.4,G16,1
+"Justin Timberlake + The Tennessee Kids",7.7,G16,3
+"Barbra: The Music, The Mem'ries, The Magic!",7.5,G16,4
+"Shawn Mendes: Live in Concert",7.4,G16,5
+"Ariana Grande: Excuse Me, I Love You",6.4,G16,6
+"Love per Square Foot",7.2,G17,1
+"To All the Boys I've Loved Before",7.1,G17,2
+"Always Be My Maybe",6.8,G17,3
+"Crazy About Her",6.6,G17,4
+"Set It Up",6.5,G17,5
+"Isi & Ossi",6.4,G17,6
+"When We First Met",6.4,G17,6
+"To All the Boys: Always and Forever",6.3,G17,8
+"I Am Not an Easy Man",6.3,G17,8
+"Alex Strangelove",6.3,G17,8
+"Someone Great",6.2,G17,11
+"The Lovebirds",6.1,G17,12
+Holidate,6.1,G17,12
+"The Kissing Booth",6,G17,14
+"The Princess Switch",6,G17,14
+"To All the Boys: P.S. I Still Love You",6,G17,14
+Maska,5.9,G17,17
+"A California Christmas",5.8,G17,18
+"A Christmas Prince",5.8,G17,18
+"Happy Anniversary",5.8,G17,18
+"Let It Snow",5.8,G17,18
+"Operation Christmas Drop",5.8,G17,18
+"You've Got This",5.8,G17,18
+"Rich in Love",5.8,G17,18
+"The Perfect Date",5.8,G17,18
+"Sierra Burgess Is a Loser",5.8,G17,18
+"The Kissing Booth 2",5.8,G17,18
+"The Holiday Calendar",5.7,G17,28
+"Ginny Weds Sunny",5.7,G17,28
+"Falling Inn Love",5.6,G17,30
+"Love, Guaranteed",5.6,G17,30
+"The Last Paradiso",5.6,G17,30
+"The Knight Before Christmas",5.5,G17,33
+"Love Wedding Repeat",5.5,G17,33
+"The Princess Switch: Switched Again",5.4,G17,35
+"Under the Riccione Sun",5.4,G17,35
+"A Christmas Prince: The Royal Baby",5.4,G17,35
+"A Christmas Prince: The Royal Wedding",5.3,G17,38
+"To Each, Her Own",5.3,G17,38
+Desperados,5.2,G17,40
+"Squared Love",5,G17,41
+"Just Say Yes",4.5,G17,42
+Whipped,4.1,G17,43
+"John Mulaney & the Sack Lunch Bunch",7.5,G18,1
+"Michael Bolton's Big, Sexy, Valentine's Day Special",6.7,G18,2
+"Sarah Cooper: Everything's Fine",5.6,G18,3
+"Kevin Hart's Guide to Black History",5.5,G18,4
+"Still Laugh-In: The Stars Celebrate",5.2,G18,5
+"Frankenstein's Monster's Monster, Frankenstein",5.9,G19,1
+"Special Correspondents",5.8,G19,2
+"Rising High",5.8,G19,2
+Mascots,5.8,G19,2
+"Raat Akeli Hai",7.3,G2,1
+"The Devil All the Time",7.1,G2,2
+"The Night Comes for Us",7,G2,3
+"AK vs AK",6.9,G2,4
+Calibre,6.8,G2,5
+"The Red Sea Diving Resort",6.6,G2,6
+"The Angel",6.6,G2,6
+"I'm Thinking of Ending Things",6.6,G2,6
+"Bird Box",6.6,G2,6
+"His House",6.5,G2,10
+Wheelman,6.4,G2,11
+Fractured,6.4,G2,11
+"Triple Frontier",6.4,G2,11
+"The Occupant",6.4,G2,11
+"Shimmer Lake",6.3,G2,15
+"The Outsider",6.3,G2,15
+"Time to Hunt",6.3,G2,15
+"In the Shadow of the Moon",6.2,G2,18
+"Offering to the Storm",6.2,G2,18
+"Lost Bullet",6.2,G2,18
+"Unknown Origins",6.1,G2,21
+"The Decline",5.9,G2,22
+"A Fall from Grace",5.9,G2,22
+"I Am All Girls",5.8,G2,24
+"The Woman in the Window",5.7,G2,25
+"Prime Time",5.7,G2,25
+"Velvet Buzzsaw",5.7,G2,25
+"Hold the Dark",5.6,G2,28
+"The Paramedic",5.6,G2,28
+"Red Dot",5.5,G2,30
+"Dead Kids",5.5,G2,30
+"Ride or Die",5.5,G2,30
+Guilty,5.4,G2,33
+"Dangerous Lies",5.3,G2,34
+"The Most Assassinated Woman in the World",5.3,G2,34
+Intuition,5.3,G2,34
+Clinical,5.1,G2,37
+Rebirth,5,G2,38
+"Mrs. Serial Killer",4.8,G2,39
+"Coin Heist",4.8,G2,39
+"Christmas Crossfire",4.8,G2,39
+"Fatal Affair",4.5,G2,42
+"The Girl on the Train",4.4,G2,43
+"Secret Obsession",4.4,G2,43
+"The Last Thing He Wanted",4.3,G2,45
+Mercy,4.2,G2,46
+"The Last Days of American Crime",3.7,G2,47
+"Dark Forces",2.6,G2,48
+"Space Sweepers",6.6,G3,1
+Oxygen,6.5,G3,2
+ARQ,6.4,G3,3
+"The Discovery",6.3,G3,4
+Spectral,6.3,G3,4
+"Project Power",6,G3,6
+iBoy,6,G3,6
+Extinction,5.8,G3,8
+TAU,5.8,G3,8
+"The Midnight Sky",5.6,G3,10
+Mute,5.5,G3,11
+"The Cloverfield Paradox",5.5,G3,11
+"Outside the Wire",5.4,G3,13
+"See You Yesterday",5.2,G3,14
+"Rim of the World",5.2,G3,14
+IO,4.7,G3,16
+"The App",2.6,G3,17
+"Lost Girls",6.1,G4,1
+"Earthquake Bird",5.9,G4,2
+"Kaali Khuhi",3.4,G4,3
+Okja,7.3,G5,1
+"The Siege of Jadotville",7.2,G5,2
+"The Old Guard",6.7,G5,3
+Extraction,6.7,G5,3
+"Mowgli: Legend of the Jungle",6.5,G5,5
+"Sand Castle",6.3,G5,6
+Polar,6.3,G5,6
+"Spenser Confidential",6.2,G5,8
+"6 Underground",6.1,G5,9
+"True Memoirs of an International Assassin",5.9,G5,10
+Ultras,5.9,G5,10
+"Point Blank",5.7,G5,12
+"The Do-Over",5.7,G5,12
+"Game Over, Man!",5.4,G5,14
+"How It Ends",5,G5,15
+"Earth and Blood",4.9,G5,16
+Sentinelle,4.7,G5,17
+"We Can Be Heroes",4.7,G5,17
+"All Because of You",4.2,G5,19
+Drive,3.5,G5,20
+Ludo,7.6,G6,1
+"The Fundamentals of Caring",7.3,G6,2
+Seventeen,7.2,G6,3
+"The 40-Year-Old Version",7.2,G6,3
+"The Christmas Chronicles",7,G6,5
+"Rose Island",7,G6,5
+"The Lonely Island Presents: The Unauthorized Bash Brothers Experience",6.9,G6,7
+Pagglait,6.9,G6,7
+"The Meyerowitz Stories (New and Selected)",6.9,G6,7
+"Death to 2020",6.8,G6,10
+"Brij Mohan Amar Rahe",6.8,G6,10
+Tallulah,6.7,G6,12
+"Just Another Christmas",6.7,G6,12
+"Bad Trip",6.6,G6,14
+Chopsticks,6.5,G6,15
+"The Incredible Jessica James",6.5,G6,15
+"The Heartbreak Club",6.4,G6,17
+"Nappily Ever After",6.4,G6,17
+"Get the Goat",6.3,G6,19
+"Feel the Beat",6.3,G6,19
+"The Laundromat",6.3,G6,19
+"The Babysitter",6.3,G6,19
+"Porta dos Fundos: The Last Hangover",6.3,G6,19
+"Crazy Awesome Teachers",6.2,G6,24
+"Have You Ever Seen Fireflies?",6.2,G6,24
+"Win It All",6.2,G6,24
+"Between Two Ferns: The Movie",6.1,G6,27
+"Like Father",6.1,G6,27
+Otherhood,6.1,G6,27
+"Work It",6.1,G6,27
+"Murder Mystery",6,G6,31
+"The Christmas Chronicles: Part Two",6,G6,31
+"War Machine",6,G6,31
+"The Polka King",5.9,G6,34
+15-Aug,5.8,G6,35
+"Candy Jar",5.8,G6,35
+"Rajma Chawal",5.8,G6,35
+"Small Crimes",5.8,G6,35
+"The After Party",5.8,G6,35
+"The Babysitter: Killer Queen",5.8,G6,35
+"El Camino Christmas",5.7,G6,41
+Lionheart,5.7,G6,41
+"Little Evil",5.7,G6,41
+"The Wrong Missy",5.7,G6,41
+"Yes Day",5.7,G6,41
+"Bomb Scared",5.6,G6,46
+"Brahman Naman",5.6,G6,46
+"Double Dad",5.6,G6,46
+"The Last Laugh",5.6,G6,46
+"The Sleepover",5.6,G6,46
+"A Very Murray Christmas",5.5,G6,51
+"Get the Grift",5.5,G6,51
+"House Arrest",5.5,G6,51
+"Step Sisters",5.5,G6,51
+"The Legacy of a Whitetail Deer Hunter",5.5,G6,51
+"The Package",5.5,G6,51
+"Unicorn Store",5.5,G6,51
+"Wine Country",5.5,G6,51
+"A Babysitter's Guide to Monster Hunting",5.4,G6,59
+"Despite Everything",5.4,G6,59
+Naked,5.4,G6,59
+"Back to School",5.3,G6,62
+#REALITYHIGH,5.2,G6,63
+"Tall Girl",5.2,G6,63
+"Handsome: A Netflix Mystery Movie",5.2,G6,63
+"Sandy Wexler",5.2,G6,63
+"The Week Of",5.2,G6,63
+Ibiza,5.2,G6,63
+"Hubie Halloween",5.2,G6,63
+"Girlfriend's Day",5.2,G6,63
+"Father of the Year",5.2,G6,63
+Dude,5.1,G6,72
+"Coffee & Kareem",5.1,G6,72
+"Airplane Mode",5,G6,74
+"The Main Event",4.8,G6,75
+"Take the 10",4.8,G6,75
+"5 Star Christmas",4.6,G6,77
+"Porta dos Fundos: The First Temptation of Christ",4.6,G6,77
+"The Players",4.6,G6,77
+"Seriously Single",4.5,G6,80
+"The Misadventures of Hedi and Cokeman",4.5,G6,80
+"Thunder Force",4.4,G6,82
+Sextuplets,4.4,G6,82
+"What Happened to Mr. Cha?",4.3,G6,84
+"Sardar Ka Grandson",4.1,G6,85
+"Leyla Everlasting",3.7,G6,86
+"Marriage Story",7.9,G7,1
+"The Trial of the Chicago 7",7.8,G7,2
+"The Irishman",7.8,G7,2
+Roma,7.7,G7,4
+"Beasts of No Nation",7.7,G7,4
+"The Two Popes",7.6,G7,6
+"Yeh Ballet",7.6,G7,6
+"On My Skin",7.3,G7,8
+"The Ballad of Buster Scruggs",7.3,G7,8
+"I'm No Longer Here",7.3,G7,8
+"El Camino: A Breaking Bad Movie",7.3,G7,8
+"The Disciple",7.2,G7,12
+Soni,7.2,G7,12
+"First They Killed My Father",7.2,G7,12
+Paddleton,7.2,G7,12
+"Private Life",7.2,G7,12
+Sometimes,7.2,G7,12
+"Pieces of a Woman",7.1,G7,18
+"The White Tiger",7.1,G7,18
+"The Dig",7.1,G7,18
+Ferry,7.1,G7,18
+"Derren Brown: Sacrifice",7.1,G7,18
+Beats,7.1,G7,18
+"Ma Rainey's Black Bottom",7,G7,24
+"The Highwaymen",6.9,G7,25
+"I Don't Feel at Home in This World Anymore",6.9,G7,25
+"7 aÃ±os",6.8,G7,27
+22-Jul,6.8,G7,27
+"To the Bone",6.8,G7,27
+"The Other Side of the Wind",6.8,G7,27
+"The Life Ahead",6.8,G7,27
+"The Boys in the Band",6.8,G7,27
+"Serious Men",6.8,G7,27
+"Paper Lives",6.7,G7,34
+Upstarts,6.7,G7,34
+"Blue Miracle",6.7,G7,34
+"Ajeeb Daastaans",6.7,G7,34
+"Hillbilly Elegy",6.7,G7,34
+"Imperial Dreams",6.7,G7,34
+Moxie,6.7,G7,34
+"Night in Paradise",6.7,G7,34
+"The Crimes That Bind",6.6,G7,42
+Milestone,6.6,G7,42
+Tigertail,6.5,G7,44
+"What Did Jack Do?",6.5,G7,44
+"All Together Now",6.5,G7,44
+Monster,6.5,G7,44
+"Lust Stories",6.5,G7,44
+"Da 5 Bloods",6.5,G7,44
+"Nobody Knows I'm Here",6.5,G7,44
+"Walk. Ride. Rodeo.",6.4,G7,51
+"First Match",6.4,G7,51
+"Irreplaceable You",6.4,G7,51
+"Street Flow",6.4,G7,51
+"Concrete Cowboy",6.3,G7,55
+Benji,6.3,G7,55
+Cargo,6.3,G7,55
+Bright,6.3,G7,55
+"Music Teacher",6.3,G7,55
+Uncorked,6.3,G7,55
+"The Forest of Love",6.3,G7,55
+"Notes for My Son",6.3,G7,55
+"June & Kopi",6.3,G7,55
+"Alien Xmas",6.2,G7,64
+"High Flying Bird",6.2,G7,64
+Citation,6.2,G7,64
+"Below Zero",6.2,G7,64
+"The Land of Steady Habits",6.2,G7,64
+"The Killer",6.1,G7,69
+"Finding 'Ohana",6.1,G7,69
+"Tribhanga â€“ Tedhi Medhi Crazy",6.1,G7,69
+"Burning Sands",6.1,G7,69
+"Deidra & Laney Rob a Train",6.1,G7,69
+"Pee-wee's Big Holiday",6.1,G7,69
+"Rogue City",6.1,G7,69
+"Stuck Apart",6.1,G7,69
+"Tersanjung the Movie",6.1,G7,69
+"Forgive Us Our Debts",6,G7,78
+Lovefucked,6,G7,78
+Juanita,6,G7,78
+Amateur,5.9,G7,81
+"Horse Girl",5.9,G7,81
+"6 Balloons",5.9,G7,81
+"Class of '83",5.8,G7,84
+"What We Wanted",5.8,G7,84
+"All Day and a Night",5.8,G7,84
+"American Son",5.8,G7,84
+"Choked: Paisa Bolta Hai",5.8,G7,84
+"Dad Wanted",5.7,G7,89
+"Good Sam",5.7,G7,89
+Ã’lÃ²turÃ©,5.5,G7,91
+"Madame Claude",5.4,G7,92
+"Dolly Kitty Aur Woh Chamakte Sitare",5.4,G7,92
+"Who Would You Take to a Deserted Island?",5.3,G7,94
+"Gunjan Saxena: The Kargil Girl",5.3,G7,94
+XOXO,5.3,G7,94
+"The Beast",5.2,G7,97
+Firebrand,5.2,G7,97
+"Love Like the Falling Rain",5,G7,99
+"The Day of the Lord",4.9,G7,100
+"Holiday Rush",4.9,G7,100
+"The Ridiculous 6",4.8,G7,102
+"The Binding",4.7,G7,103
+"Finding Agnes",4.7,G7,103
+"The Call",4.1,G7,105
+Anima,7.7,G8,1
+"Jingle Jangle: A Christmas Journey",6.5,G8,2
+"Eurovision Song Contest: The Story of Fire Saga",6.5,G8,2
+"Como CaÃ­do del Cielo",6.4,G8,4
+"The Prom",5.9,G8,5
+"A Week Away",5.7,G8,6
+"Been So Long",5.5,G8,7
+"Dolly Parton's Christmas on the Square",5.2,G8,8
+Paradox,3.9,G8,9
+Bulbbul,6.6,G9,1
+"Gerald's Game",6.5,G9,2
+1922,6.3,G9,3
+Apostle,6.3,G9,3
+"The Perfection",6.1,G9,5
+Cam,5.9,G9,6
+"Army of the Dead",5.9,G9,6
+Eli,5.7,G9,8
+"Vampires vs. the Bronx",5.6,G9,9
+"In the Tall Grass",5.4,G9,10
+"Things Heard & Seen",5.3,G9,11
+"Ghost Lab",5.2,G9,12
+Cadaver,5.1,G9,13
+"Nobody Sleeps in the Woods Tonight",4.8,G9,14
+"I Am the Pretty Thing That Lives in the House",4.6,G9,15
+Rattlesnake,4.6,G9,15
+"Death Note",4.4,G9,17
+"Ghost Stories",4.3,G9,18
+"The Open House",3.2,G9,19

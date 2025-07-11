@@ -1,0 +1,4 @@
+Genre,avg(IMDBScore),count_netflix_originals
+"Concert Film",7.633333333333333,6
+Historical,7.050000000000001,2
+Documentary,6.936477987421385,159
